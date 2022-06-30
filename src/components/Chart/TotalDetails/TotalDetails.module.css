@@ -1,0 +1,35 @@
+.details {
+  padding-bottom: 2rem;
+}
+
+.para {
+  font-size: 1.4rem;
+  color: hsl(28, 10%, 53%);
+}
+
+.amtColor {
+  color: hsl(25, 47%, 15%);
+}
+
+.totalAmt {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.totalPerc {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.amt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.perc {
+  display: flex;
+  flex-direction: column;
+
+  align-items: flex-end;
+}
